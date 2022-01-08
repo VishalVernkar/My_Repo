@@ -1,2 +1,2 @@
 # My_Repo
-This is repository created to understand git hub. 
+This is repository was created to understand git hub. 
